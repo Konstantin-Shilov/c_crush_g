@@ -31,15 +31,15 @@
 
 <div class="level-target">
   <div class="objective">
-    <img src="/assets/tiles/red.png" alt="Red Tiles" />
+    <img src="./assets/tiles/red.png" alt="Red Tiles" />
     <span>5/15</span>
   </div>
   <div class="objective">
-    <img src="/assets/tiles/blue.png" alt="Red Tiles" />
+    <img src="./assets/tiles/blue.png" alt="Red Tiles" />
     <span>5/15</span>
   </div>
   <div class="objective">
-    <img src="/assets/tiles/purple.png" alt="Red Tiles" />
+    <img src="./assets/tiles/purple.png" alt="Red Tiles" />
     <span>5/15</span>
   </div>
 </div>

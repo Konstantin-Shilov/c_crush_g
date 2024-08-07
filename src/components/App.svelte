@@ -4,7 +4,7 @@
 
 <style>
   main {
-    background: url(/assets/bg-blured.png) no-repeat bottom center;
+    background: url(./assets/bg-blured.png) no-repeat bottom center;
     background-size: cover;
     padding: 40px;
     height: 100%;

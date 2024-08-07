@@ -8,7 +8,7 @@
 
   const BOARD_PADDING = 10;
   const dispatch = createEventDispatcher();
-  const matchSound = new Audio("/assets/match.wav");
+  const matchSound = new Audio("./assets/match.wav");
 
   let docWidth = document.body.clientWidth;
   let tileSize = getTileSize($game.columns);
